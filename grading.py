@@ -1,15 +1,3 @@
-
-# TO RUN THIS CODE#
-
-#1. Your folder should have exactly three files inside
-    #lab5.c 
-    #customer_data.txt
-    #grading.py
-
-#2. you must run grading.py in terminal (powershell)
-
-#3. type python3 "grading.py"
-
 import subprocess
 
 programs = ["lab5.c"]
